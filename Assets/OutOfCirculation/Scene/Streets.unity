@@ -7075,6 +7075,7 @@ MonoBehaviour:
   m_StartingHoverFilters: []
   m_StartingSelectFilters: []
   m_StartingInteractionStrengthFilters: []
+  positionLimits: {x: 0, y: 0, z: 0}
   isLocked: 0
 --- !u!1001 &453895255
 PrefabInstance:
@@ -47495,6 +47496,7 @@ MonoBehaviour:
   m_StartingHoverFilters: []
   m_StartingSelectFilters: []
   m_StartingInteractionStrengthFilters: []
+  positionLimits: {x: 0.15, y: 0.03, z: 0.15}
   isLocked: 1
   doorObject: {fileID: 4293244891724646109}
   comboLock: {fileID: 881832519}
@@ -49516,6 +49518,7 @@ MonoBehaviour:
   m_StartingHoverFilters: []
   m_StartingSelectFilters: []
   m_StartingInteractionStrengthFilters: []
+  positionLimits: {x: 0.15, y: 0.03, z: 0.15}
   isLocked: 1
   doorObject: {fileID: 6097707997458985744}
   comboLock: {fileID: 881832519}
